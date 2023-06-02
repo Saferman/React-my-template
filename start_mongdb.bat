@@ -1,0 +1,1 @@
+F:\MongDB\Server\6.0\bin\mongod.exe --dbpath f:\data\db
