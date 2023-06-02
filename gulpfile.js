@@ -97,5 +97,5 @@ gulp.task('browserify-watch', ['browserify-vendor'], function() {
 
 
 
-gulp.task('default', ['vendor', 'browserify-watch', 'watch']);
+gulp.task('default', ['vendor', 'browserify-watch']);
 gulp.task('build', ['vendor', 'browserify']);
